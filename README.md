@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+> Demo https://kaneblack.github.io/vue.math-training/dist/index.html
+
 ## Build Setup
 
 ``` bash
