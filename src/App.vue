@@ -106,7 +106,7 @@
             },
             onQuestSuccess() {
                 this.state = 'message';
-                this.message.text = 'Good Job!';
+                this.message.text = 'Good Job yo!';
                 this.message.type = 'success';
                 this.stats.success++
             },
